@@ -1,0 +1,40 @@
+#post-title {
+	margin: 0;
+	padding: 0;
+}
+
+#post-author {
+	display: block;
+}
+
+#post-timestamp {
+	color: #999;
+}
+
+#post-content {
+	margin-top: 2em;
+}
+
+.post-neighbors-next {
+	float: right;
+}
+
+.post-neighbors-container {
+	height: 1em;
+	margin: 0;
+	padding: 0;
+	background-color: #efefff;
+}
+
+.post-neighbors-container-top {
+	padding-bottom: 0.75em;
+	
+	margin-bottom: 1em;
+}
+
+.post-neighbors-container-bottom {
+	padding-top: 0.25em;
+	padding-bottom: 0.75em;
+	
+	margin-top: 1em;
+}

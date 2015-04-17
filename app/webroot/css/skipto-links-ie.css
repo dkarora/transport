@@ -1,0 +1,19 @@
+#skip-to-links {
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	position: absolute;
+	top: 0.5em;
+	left: 0;
+	background: 0;
+}
+
+#skip-to-links a {
+	left: auto;
+	top: auto;
+	width: auto;
+	height: auto;
+	overflow: auto;
+	position: relative;
+	margin-right: 1em;
+}

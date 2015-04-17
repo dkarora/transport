@@ -1,0 +1,22 @@
+#content .text input {
+	width: 50%;
+	padding: 0.25em;
+}
+
+#content .input.text {
+	display: inline;
+	margin-right: 1em;
+}
+
+#content .submit input {
+	padding: 0.1em 0.3em;
+}
+
+#content .submit input, #content .text input, #content select {
+	font-size: 180%;
+	margin: 0.25em 0;
+}
+
+#content form {
+	text-align: center;
+}

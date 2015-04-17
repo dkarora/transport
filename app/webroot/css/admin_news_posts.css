@@ -1,0 +1,8 @@
+#NewsPostCreateForm .input input,
+#NewsPostCreateForm .input textarea {
+	width: 100%;
+}
+
+#NewsPostCreateForm .input textarea {
+	height: 20em;
+}

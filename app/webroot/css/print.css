@@ -1,0 +1,117 @@
+body, html {
+	background: white;
+	border: 0;
+	color: black;
+	
+	font-family: Times, serif;
+	font-size: 12pt !important;
+	line-height: 1.15;
+}
+
+#wrapper {
+	width: 100%;
+}
+
+#footer, #nav, #subnav,
+#flashMessage, .themoreyouknow,
+#topbar, input[type=submit],
+#printme,
+#header #nifty-badge,
+#header #social,
+#skiptolinks,
+#loggedinas,
+.paginator .navigate-link,
+.backlink,
+.dont-print,
+#selectall {
+	display: none !important;
+}
+
+.bottom-separator {
+	border: 0 !important;
+}
+
+th {
+	background: white !important;
+	color: black !important;
+}
+
+tr:hover {
+	background: white !important;
+}
+
+tr, th, td {
+	border: 1px solid black !important;
+	padding: 0.2em;
+}
+
+.altrow {
+	background: white !important;
+}
+
+th a {
+	color: black !important;
+}
+
+#wrap, #content, #header {
+	border: 0;
+	width: auto;
+}
+
+#header {
+	background: white;
+	height: auto !important;
+}
+
+h1 {
+	font-size: 175%;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+h2 {
+	font-size: 150%;
+	padding: 0;
+	margin: 0;
+}
+
+h3 {
+	font-size: 125%;
+}
+
+.paginator {
+	margin: 0;
+	padding: 0.25em;
+}
+
+.paginator * {
+	color: black !important;
+	background-color: transparent !important;
+	border: 0 !important;
+}
+
+.paginator span {
+	margin: 0 !important;
+}
+
+.paginator a {
+	text-decoration: none !important;
+}
+
+#header, #content, #wrap {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+body.attendance-manage table {
+	table-layout: auto;
+}
+
+body.attendance-manage td {
+	vertical-align: middle;
+}
+
+body.attendance-manage .attendee-check {
+	width: 60%;
+	height: 3em;
+}

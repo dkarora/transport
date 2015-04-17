@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine on
+   RewriteRule ^movingtogether/(.*) movingtogether/$1 [L]
+   RewriteRule    ^$ app/webroot/    [L]
+   RewriteRule    (.*) app/webroot/$1 [L]
+</IfModule>

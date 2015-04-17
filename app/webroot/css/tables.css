@@ -1,0 +1,58 @@
+table {
+	width: 100%;
+	table-layout: fixed;
+}
+
+td {
+	border-width: 0 1px 1px 0px;
+	border-color: #ccc;
+	border-style: solid;
+}
+
+td:first-child {
+	border-left-width: 1px;
+}
+
+th a:link,
+th a:visited,
+th a:active {
+	color: white;
+}
+
+th a:hover {
+	text-decoration: none;
+}
+
+th {
+	color: white;
+	font-weight: bolder;
+	padding: 0.3em 0.4em;
+	background: url('images/table-header-bg.png') repeat-x black;
+}
+
+tr:hover {
+	background-color: #eef;
+}
+
+th:first-child {
+	-moz-border-radius: 6px 0 0 0;
+	-webkit-border-top-left-radius: 6px;
+}
+
+td {
+	padding: 0.4em;
+}
+
+th:last-child {
+	-moz-border-radius: 0 6px 0 0;
+	-webkit-border-top-right-radius: 6px;
+}
+
+.altrow {
+	background-color: #F8F8FE;
+}
+
+.paginatornav {
+	text-align: center;
+	padding: 1em;
+}

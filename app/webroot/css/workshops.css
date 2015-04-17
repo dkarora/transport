@@ -1,0 +1,13 @@
+.confirm {
+	text-align: center;
+	font-weight: bolder;
+	
+	color: #9F6000;
+	background-color: #FEEFB3;
+	background-image: url('images/warning.png');
+	
+	padding: 25px;
+	font-size: 125%;
+	
+	border: 1px solid;
+}

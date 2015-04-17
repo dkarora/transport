@@ -1,0 +1,5 @@
+2011-02-14 15:23:58 Notice: Notice (8): Undefined index:  first_name in [APP/views/news_posts/index.ctp, line 90]
+2011-02-14 15:23:58 Notice: Notice (8): Undefined index:  last_name in [APP/views/news_posts/index.ctp, line 90]
+2012-10-03 12:44:13 Notice: Notice (8): Undefined property: WorkshopsController::$OauthAccessToken in [APP/controllers/workshops_controller.php, line 238]
+2012-10-03 12:45:23 Notice: Notice (8): Undefined property: WorkshopsController::$OauthAccessToken in [APP/controllers/workshops_controller.php, line 238]
+2012-10-23 23:54:35 Notice: Notice (8): Undefined index: Category in [APP/views/admin/namebadges.ctp, line 34]

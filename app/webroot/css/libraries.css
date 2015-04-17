@@ -1,0 +1,38 @@
+#libraries {
+	margin: 0 auto;
+	width: 90%;
+	text-align: center;
+	margin-bottom: 1.5em;
+	border: 1px dotted #aaa;
+	border-width: 1px 0;
+	overflow: hidden;
+}
+
+.library-link-container {
+	text-align: center;
+	display: inline;
+	float: left;
+	width: 50%;
+	clear: none;
+}
+
+.library-link-container:hover {
+	background-color: #eef;
+}
+
+.library-link-container a {
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding: 0.5em 0;
+}
+
+.library-link-container img {
+	display: block;
+	margin: 0 auto;
+}
+
+/* fix ie 7 floating bug thing */
+html>body .library-link-container {
+	margin-right: -1px;
+}

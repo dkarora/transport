@@ -1,0 +1,8 @@
+#flyer_preview_image, #flyer-preview {
+	background-color: #eee;
+	padding: 5px;
+}
+
+#flyer-preview {
+	display: none;
+}

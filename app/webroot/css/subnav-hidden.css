@@ -1,0 +1,27 @@
+#subnav-hidden-container {
+	display: none;
+	position: absolute;
+	width: 950px;
+	/*border: 1px solid black;*/
+	color: white;
+	border-top: 0;
+	z-index: 999;
+	-moz-box-shadow: 0 5px 10px #555;
+	box-shadow: 0 5px 10px #555;
+	-webkit-box-shadow: 0 5px 10px #555;
+	margin-top: -2px;
+	padding-top: 2px;
+}
+
+.subnav-hidden {
+	/* for ie to trigger hasLayout */
+	zoom: 1;
+	border: 1px solid #343434;
+	border-width: 0 1px;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+#content {
+	zoom: 1;
+}

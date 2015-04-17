@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="cake_model_default_activity_logs" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606615210000000" remote="129606615210000000" Dst="2" />
+<file name="cake_model_default_agenda_items" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_announcements" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_attendees" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_baystate_new_list" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_cart_items" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606689650000000" remote="129606689650000000" Dst="2" />
+<file name="cake_model_default_credit_totals" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_denormalized_attendees" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129610091830000000" remote="129610091830000000" Dst="2" />
+<file name="cake_model_default_flyers" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_group_invites" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_group_members" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_groups" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_integration_requests" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_legacy_records" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_news_posts" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_newsletters" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455600000000" remote="129690455600000000" Dst="2" />
+<file name="cake_model_default_oauth_access_tokens" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455620000000" remote="129690455620000000" Dst="2" />
+<file name="cake_model_default_payment_options" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_payment_records" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455610000000" remote="129690455610000000" Dst="2" />
+<file name="cake_model_default_publication_categories" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_publication_checkouts" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_publication_requests" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_publications" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_tech_notes" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455600000000" remote="129690455600000000" Dst="2" />
+<file name="cake_model_default_unintegrated_users" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129610282680000000" remote="129610282680000000" Dst="2" />
+<file name="cake_model_default_users" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455590000000" remote="129690455590000000" Dst="2" />
+<file name="cake_model_default_video_categories" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_video_checkouts" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_video_instances" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_video_requests" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_videos" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129606614470000000" remote="129606614470000000" Dst="2" />
+<file name="cake_model_default_workshop_categories" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455600000000" remote="129690455600000000" Dst="2" />
+<file name="cake_model_default_workshop_details" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455600000000" remote="129690455600000000" Dst="2" />
+<file name="cake_model_default_workshops" server="defiant.ecs.umass.edu//www/organizations/baystate/" local="129690455600000000" remote="129690455600000000" Dst="2" />
+</dwsync>

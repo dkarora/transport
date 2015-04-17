@@ -1,0 +1,8 @@
+#signedup, #notsignedup {
+	margin-bottom: 3em;
+}
+
+#signedup th, #signedup td,
+#notsignedup th, #notsignedup td {
+	width: 50%;
+}
